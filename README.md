@@ -1,9 +1,22 @@
-#### Api test:
+<b>Post User: </b>
+```cmd
+http://localhost:5000/api/v1/user
+```
 
-###### Post User: http://localhost:5000/api/v1/user
-###### Get User: http://localhost:5000/api/v1/user
-###### Get SIngle User: http://localhost:5000/api/v1/user/88
-###### Get Admin: http://localhost:5000/api/v1/user/admins
+<b>Get User: </b>
+```cmd
+http://localhost:5000/api/v1/user
+```
+
+<b>Get SIngle User: </b>
+```cmd
+http://localhost:5000/api/v1/user/88
+```
+
+<b>Get Admin: </b>
+```cmd
+http://localhost:5000/api/v1/user/admins
+``` 
 
 ```cmd
 {
