@@ -1,3 +1,10 @@
+#### Api test:
+
+###### Post User: http://localhost:5000/api/v1/user
+###### Get User: http://localhost:5000/api/v1/user
+###### Get SIngle User: http://localhost:5000/api/v1/user/88
+###### Get Admin: http://localhost:5000/api/v1/user/admins
+
 ```cmd
 {
    "id":"510",
